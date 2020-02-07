@@ -6,7 +6,7 @@
   },
   "dependencies": {},
   "name": "aluna-smart-contracts",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "compiler": {
     "manager": "truffle",
     "compilerSettings": {
