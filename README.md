@@ -1,6 +1,6 @@
 <img src="https://aluna.social/Aluna-Circle2%403x.png" align="right" width="200"/>
 
-[![Coverage Status](https://codecov.io/gh/levelkdev/aluna-smart-contracts/branch/master/graphs/badge.svg?token=GmKr6aWMIV)](https://codecov.io/gh/levelkdev/aluna-smart-contracts)
+[![Coverage Status](https://codecov.io/gh/alunacrypto/aluna-token/branch/master/graph/badge.svg)](https://codecov.io/gh/alunacrypto/aluna-token)
 
 
 - [Introduction](#aluna-smart-contracts)
